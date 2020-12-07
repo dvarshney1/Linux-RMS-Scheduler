@@ -13,5 +13,5 @@ cat /proc/mp2/status
 This will printout all the values/content of the file on the console.
 To remove the module
 ```
-1. rmmod mp2
+rmmod mp2
 ```
